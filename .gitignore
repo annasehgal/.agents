@@ -1,0 +1,61 @@
+
+# Secrets and environment configuration
+.env
+.env.*
+!.env.example
+!.env.*.example
+secrets/
+**/secrets/
+credentials*.json
+service-account*.json
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local cloud credentials and tool state
+.azure/
+.aws/
+.kube/
+.wrangler/
+.copilot-azure/
+
+# Terraform state and downloaded providers
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Python virtual environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# JavaScript / Node.js
+node_modules/
+.next/
+coverage/
+
+# Build and temporary output
+*.log
+tmp/
+temp/
+
+# macOS
+.DS_Store
+
+# IDE-specific files
+.idea/
+
+# OPTIONAL: uncomment only if .agents is a local-only bundle
+# .agents/
+
+.agents/hooks/
+/hooks/
