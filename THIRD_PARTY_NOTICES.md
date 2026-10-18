@@ -29,6 +29,27 @@ notice requirements when redistributing it.
   `skills/wrangler/`
 - Copyright: Cloudflare, Inc.
 
+## Matt Pocock Skills
+
+- Source: <https://github.com/mattpocock/skills>
+- License: MIT, reproduced verbatim in [`LICENSE-MATTPOCOCK`](LICENSE-MATTPOCOCK)
+- Included paths: `skills/ask-matt/`, `skills/chief-of-staff/`,
+  `skills/claude-handoff/`, `skills/code-review/`, `skills/codebase-design/`,
+  `skills/diagnosing-bugs/`, `skills/domain-modeling/`,
+  `skills/git-guardrails-claude-code/`, `skills/grill-me/`,
+  `skills/grill-with-docs/`, `skills/grilling/`, `skills/handoff/`,
+  `skills/implement-spec/`, `skills/implement/`,
+  `skills/improve-codebase-architecture/`, `skills/loop-me/`,
+  `skills/migrate-to-shoehorn/`, `skills/pr/`, `skills/prototype/`,
+  `skills/research/`, `skills/retro/`, `skills/scaffold-exercises/`,
+  `skills/setup-matt-pocock-skills/`, `skills/setup-pre-commit/`,
+  `skills/setup-ts-deep-modules/`, `skills/tdd/`, `skills/teach/`,
+  `skills/to-questionnaire/`, `skills/to-spec/`, `skills/to-tickets/`,
+  `skills/triage/`, `skills/wait-what/`, `skills/wayfinder/`,
+  `skills/wizard/`, `skills/writing-beats/`, `skills/writing-for-agents/`,
+  `skills/writing-fragments/`, and `skills/writing-shape/`
+- Copyright: Matt Pocock
+
 The skill contents are redistributed under their respective upstream licenses.
 Changes to individual upstream files should be identified in those files or
 in the repository history. This repository's collection, organization, and

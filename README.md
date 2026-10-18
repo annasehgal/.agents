@@ -12,6 +12,8 @@ projects:
   [`LICENSE-MIT`](LICENSE-MIT).
 - Cloudflare skills are licensed under the Apache License, Version 2.0. See
   [`LICENSE-APACHE-2.0`](LICENSE-APACHE-2.0).
+- Matt Pocock skills are licensed under the MIT License. See
+  [`LICENSE-MATTPOCOCK`](LICENSE-MATTPOCOCK).
 
 The applicable skill directories, upstream repositories, copyright notices,
 and redistribution requirements are listed in
