@@ -18,3 +18,9 @@ projects:
 The applicable skill directories, upstream repositories, copyright notices,
 and redistribution requirements are listed in
 [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md).
+
+This repository also tracks the upstream Superpowers project as a pinned Git
+submodule under [`integrations/superpowers`](integrations/superpowers). It is
+Jesse Vincent and Prime Radiant's project, not an original project by this
+repository's owner. See the [Superpowers integration catalog](docs/integrations/superpowers.md)
+and the attribution entry in [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md).

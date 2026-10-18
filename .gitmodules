@@ -1,0 +1,3 @@
+[submodule "integrations/superpowers"]
+	path = integrations/superpowers
+	url = https://github.com/obra/superpowers.git

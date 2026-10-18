@@ -55,3 +55,23 @@ Changes to individual upstream files should be identified in those files or
 in the repository history. This repository's collection, organization, and
 any original additions are not intended to change the upstream license of the
 redistributed files.
+
+## Superpowers
+
+- Source: <https://github.com/obra/superpowers>
+- Stable release reviewed: `v7.0.0`
+- Pinned commit: `bb92a77741419a4ab5f06e711a283343f1ada0c3`
+- Included path: `integrations/superpowers/` as a Git submodule; its contents
+  are intentionally separate from this repository's `skills/` namespace.
+- Creator and maintainer attribution identified upstream: Jesse Vincent and
+  Prime Radiant
+- Contributors: [Superpowers contributors](https://github.com/obra/superpowers/graphs/contributors)
+- License: MIT, preserved in the submodule's [`LICENSE`](integrations/superpowers/LICENSE)
+- Upstream README: <https://github.com/obra/superpowers/blob/v7.0.0/README.md>
+
+The upstream project and its original skills were not authored or maintained
+by this repository's owner. The submodule preserves the upstream repository,
+copyright notice, MIT license, and attribution. Any catalog entries,
+organization, status tracking, or explanatory text outside the submodule are
+personal documentation maintained in this repository and do not change the
+upstream license or authorship.
